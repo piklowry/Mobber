@@ -1,0 +1,333 @@
+
+body {
+	font-family: 'special Elite', cursive;
+	margin:0;
+	padding:0;
+
+}
+
+.nav-bar {
+
+	height: 60px;
+	width:  900px;
+	display: inline-block;
+	background-image: url("/Users/piklowry/Desktop/rails_projects/mobber/pictures/blacktop.png");
+
+}
+
+.littlehat {
+
+	margin-left:70px;
+	margin-top: 5px;
+}
+
+.logo {
+
+	margin-left:5px;
+	margin-top: 5px;
+
+}
+
+.findamob {
+	font-family:Arial;
+	color: #fff;
+	margin-left:280px;
+  margin-top: -35px;
+
+}
+
+.findamob {
+	font-size:14px;
+	font-family:Arial;
+	color: #fff;
+	margin-left:300px;
+  margin-top: -35px;
+
+}
+.startamob {
+	font-size:14px;
+	font-family:Arial;
+	color: #fff;
+	margin-left:450px;
+  margin-top: -17px;
+
+}
+
+.bruce {
+	margin-left:700px;
+  margin-top: -33px;
+
+}
+
+.johndoe{
+	font-size:14px;
+	font-family:Arial;
+	color: #fff;
+	margin-left:775px;
+  margin-top: -35px;
+
+}
+
+.smallarrow {
+	
+
+margin-left:845px;
+  margin-top: -15px;
+}
+
+.headertitle {
+margin-left: 80px;
+
+
+}
+
+
+.top_nav {
+
+left:50px;
+top:150px;
+
+}
+
+.bodyborder{
+background-color:#f0eeeb;
+height:900px;
+width:900px;
+
+
+}
+
+.car {
+	height:350px;
+  width:520px;
+	margin-left:40px;
+  margin-top: 50px;
+
+
+}
+div.transbox
+  {
+  
+  	z-index:-1;
+  width:520px;
+  height:40px;
+  background-color:#000;
+  opacity:0.6;
+  z-index:2px;
+  margin-left:40px;
+  margin-top: -350px;
+
+  }
+
+
+.block {
+	
+	margin-left:590px;
+  margin-top: -41px;
+
+
+}
+
+.blocktwo {
+	z-index:-2;
+	margin-left:740px;
+  margin-top: -150px;
+
+
+}
+
+.seventy {
+	font-size:90px;
+	z-index:-10;
+	margin-left:610px;
+  margin-top: -170px;
+
+
+}
+
+
+.seventy {
+
+	color: #fff;
+	font-size:90px;
+	z-index:-10;
+	margin-left:610px;
+  margin-top: -170px;
+
+
+}
+
+.twohundred {
+
+	color: #fff;
+	font-size:85px;
+	z-index:-10;
+	margin-left:740px;
+  margin-top: -200px;
+
+
+}
+
+.blockoneheading {
+  font-family:Arial;
+	color: #000;
+	font-size:12px;
+	margin-left:620px;
+  margin-top: -49px;
+
+
+}
+.blocktwoheading {
+  font-family:Arial;
+	color: #000;
+	font-size:12px;
+	margin-left:755px;
+  margin-top: -25px;
+
+
+}
+
+.utwo {
+	position:absolute;
+  font-family:Verdana;
+	color: #fff;
+	font-size:14px;
+	margin-left:20px;
+  margin-top: 10px;
+
+
+}
+.mobends {
+
+  font-family:Verdana;
+	color: #fff;
+	font-size:12px;
+	margin-left:235px;
+  margin-top: -10px;
+
+}
+
+.clock {
+
+	margin-left:310px;
+  margin-top: -32px;
+
+
+}
+  .textbox{ 
+  position:relative;
+  z-index:3;
+  margin-left:590px;
+  margin-top: 20px;
+	padding:10px 40px; 
+	background:#fcd64c;
+	width:210px;
+	height:65px;
+	border-radius:10px;
+} 
+
+.joinmob {
+	
+	font-size:28px;
+ font-family:Verdana;
+	color: #fff;
+	margin-left:8px;
+  margin-top: 10px;
+
+}
+
+.underjoinmob {
+
+	z-index:1;
+	margin-left: 600px;
+  margin-top: -10px;
+	padding:10px 40px; 
+	background:#fff;
+	width:190px;
+	height:65px;
+	border-radius:10px;
+	border:2px solid #a1a1a1;
+	position: relative;
+
+}
+.goldmedal {
+
+	
+	margin-left: -20px;
+  margin-top: 5px;
+	
+
+}
+.yourreward {
+
+	
+	margin-left: 25px;
+  margin-top: -55px;
+	
+
+}
+
+.ticketpresale {
+
+	font-size:12px;
+	margin-left: 20px;
+  margin-top: -15px;
+	
+
+}
+.thismobreleased {
+	font-color:#eee;
+	font-family:Arial;
+	font-size:11px;
+	margin-left: 620px;
+  margin-top: 10px;
+	
+
+}
+
+.mobreleased {
+	font-color:#eee;
+	font-family:Arial;
+	font-size:11px;
+	margin-left: 625px;
+  margin-top: -5px;
+
+}
+.line {
+	margin-left:600px;
+  margin-top: 0px;
+  size:1px;
+  width:270px;
+
+}
+.line {
+	margin-left:600px;
+  margin-top: 0px;
+  size:1px;
+  width:270px;
+
+}
+
+.socialicons {
+	margin-left:600px;
+  margin-top: 0px;
+  size:1px;
+  width:270px;
+
+}
+
+
+
+
+
+/*.mobends {
+  font-family:Verdana;
+	color: #fff;
+	font-size:12px;
+	margin-left:20px;
+  margin-top: 5px;
+
+
+}
+*/
+
